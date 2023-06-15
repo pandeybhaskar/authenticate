@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216892485040",
+    "project_id": "authenticate-fc5c5",
+    "storage_bucket": "authenticate-fc5c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216892485040:android:2d18bab73d3ec856477a75",
+        "android_client_info": {
+          "package_name": "com.example.authenticate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216892485040-i8soos7ko2vqacghq3h4c5hklj2jgnmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCo5rCp6Pvor6gtFon-F-7N5vAkV0KYWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216892485040-i8soos7ko2vqacghq3h4c5hklj2jgnmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
